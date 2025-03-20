@@ -112,13 +112,13 @@ Extracted entities: ['cat']
 
 ---
 
-## **Technologies Used**
+## 🛠️ Technologies Used
+
 - **Python 3.8+**
-- **Hugging Face Transformers** (NER model)
-- **PyTorch / TensorFlow** (Image classification)
-- **spaCy / NLTK** (Text preprocessing)
-- **OpenCV** (Image processing)
-- **Pandas, NumPy, Scikit-learn** (Data handling)
+- **Hugging Face Transformers** (`bert-base-cased` for Named Entity Recognition)
+- **PyTorch** (`ResNet50` for Image Classification)
+- **OpenCV** (Image Processing)
+- **Pandas, NumPy, Scikit-learn** (Data Handling and Modeling)
 - **Matplotlib, Seaborn** (Exploratory Data Analysis)
 
 ---
