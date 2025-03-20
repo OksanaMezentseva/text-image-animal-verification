@@ -1,0 +1,17 @@
+__pycache__/
+*.log
+*.pkl
+*.h5
+*.ckpt
+*.pt
+*.onnx
+*.csv
+*.json
+*.png
+*.jpg
+*.jpeg
+*.zip
+data/
+venv/
+env/
+models/
